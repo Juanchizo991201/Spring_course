@@ -1,0 +1,41 @@
+
+˜
+java:S36554"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ÝÚÑ€ýÿÿÿÿ8ˆÎ¢—ø1J$8925f038-f884-4d25-8004-61512363dc0e
+›
+java:S2229<"S"update's" @Transactional requirement is incompatible with the one for this method.(·øä³ýÿÿÿÿ8´Ÿª—ø1J$5e6118c7-871d-4f99-a099-2d36ff5fdb07
+m	java:S106!"+Replace this use of System.out by a logger.(Ð½õ×8‘Î¢—ø1J$3511962b-2a81-41fe-87b1-080e97c0a516
+r	java:S106#"+Replace this use of System.out by a logger.(–ÎÄ©üÿÿÿÿ8“Î¢—ø1J$709901f3-8ace-4f03-9d2d-cd3e65129001
+m	java:S106%"+Replace this use of System.out by a logger.(šˆíÓ8“Î¢—ø1J$6b2d18bd-8116-4034-bf0d-e0df64c333f2
+r	java:S106'"+Replace this use of System.out by a logger.(„Í·Íÿÿÿÿÿ8•Î¢—ø1J$d081048a-4cd8-4c0a-878f-606034138fb5
+m	java:S106)"+Replace this use of System.out by a logger.(°Òã8•Î¢—ø1J$577d4ac6-410e-4ea8-af1e-1f1945dbfe8e
+m	java:S106+"+Replace this use of System.out by a logger.(Í„ÐÖ8–Î¢—ø1J$8aabaeb1-e9d7-4aea-a7f1-1cce9bdb71f6
+|
+java:S1611/"4Remove the parentheses around the "record" parameter(üíØ¿úÿÿÿÿ8˜Î¢—ø1J$370f6e1a-c823-48bc-8088-4cd7dd4cab17
+t
+java:S1602/",Remove useless curly braces around statement(üíØ¿úÿÿÿÿ8™Î¢—ø1J$bbe34296-44e1-4e6a-a39a-90d5acf30fbb
+‚
+java:S6213/":Rename this variable to not match a restricted identifier.(üíØ¿úÿÿÿÿ8šÎ¢—ø1J$ed128645-eab2-4b65-9c6e-567646f52d9f
+r	java:S1060"+Replace this use of System.out by a logger.(•âÔúÿÿÿÿ8›Î¢—ø1J$e546c547-9188-48a7-b52b-7aa868110934
+r	java:S1063"+Replace this use of System.out by a logger.(»¬Ñ¡ùÿÿÿÿ8œÎ¢—ø1J$af63e17c-9026-410e-954d-e47cca5ba53c
+r	java:S1064"+Replace this use of System.out by a logger.(ÝÚÑ€ýÿÿÿÿ8œÎ¢—ø1J$409325b7-e554-4bcd-ad6e-ef3c760769c0
+m	java:S1066"+Replace this use of System.out by a logger.(éþ•Â8Î¢—ø1J$1ff1fc8e-19bf-422b-a2be-449bd56b8bd0
+m	java:S1068"+Replace this use of System.out by a logger.(œ”—°8žÎ¢—ø1J$921876b2-101f-4815-bbfe-970215b58767
+
+java:S6809<"UCall transactional methods via an injected dependency instead of directly via 'this'.(·øä³ýÿÿÿÿ8ÉŸª—ø1J$ca3590a4-097a-4875-a1f4-a7622099fed0
+ƒ	java:S125:"<This block of commented-out lines of code should be removed.(ÃÏ²®þÿÿÿÿ8ËŸª—ø1J$2b4f97ec-e7a6-42db-bd38-5286af8331f7
+~	java:S125>"<This block of commented-out lines of code should be removed.(¡Î‡ê8¡Î¢—ø1J$388f4806-605d-4690-9bdb-4f2b5a261abd
+m	java:S106E"+Replace this use of System.out by a logger.(§³Á 8¥Î¢—ø1J$8c485da8-7bfa-4171-888d-0a1bcc77ce95
+m	java:S106G"+Replace this use of System.out by a logger.(‡ÿŠö8¦Î¢—ø1J$5b48f485-689c-4b57-9087-2722085a8743
+r	java:S106I"+Replace this use of System.out by a logger.(’øÏ—þÿÿÿÿ8§Î¢—ø1J$8c6ba9aa-7788-48c1-92fb-08aa0cee6baa
+r	java:S106Q"+Replace this use of System.out by a logger.(þ±Æ°øÿÿÿÿ8ªÎ¢—ø1J$0235d42f-91e4-4742-8109-e0e3b8c2c21e
+r	java:S106X"+Replace this use of System.out by a logger.(£®ðÐúÿÿÿÿ8¬Î¢—ø1J$c3840f53-3a35-4c54-ba28-9756f9bc9626
+r	java:S106\"+Replace this use of System.out by a logger.(ò®œÃÿÿÿÿÿ8®Î¢—ø1J$09c88b9f-60b3-48a7-b7ca-a38876986785
+m	java:S106_"+Replace this use of System.out by a logger.(§³Á 8®Î¢—ø1J$79311c97-1eca-47aa-a322-51b7bf064a23
+m	java:S106a"+Replace this use of System.out by a logger.(‡ÿŠö8¯Î¢—ø1J$36897142-4469-4874-8fcf-a4666c9002b2
+r	java:S106c"+Replace this use of System.out by a logger.(’øÏ—þÿÿÿÿ8°Î¢—ø1J$f54ddad1-da1c-4f90-93a6-a98552f318f1
+r	java:S106l"+Replace this use of System.out by a logger.(¯‹‰íûÿÿÿÿ8´Î¢—ø1J$a138c282-2414-4891-a4a8-fc4b341197e4
+m	java:S106o"+Replace this use of System.out by a logger.(ÿ•§Ô8µÎ¢—ø1J$b8c0a4e7-3078-4a32-9db8-14ef6c42aed7
+r	java:S106t"+Replace this use of System.out by a logger.(ïÀ¹²ýÿÿÿÿ8·Î¢—ø1J$a33f13ba-e670-405d-8f30-56ffd3b35d6f
+r	java:S106x"+Replace this use of System.out by a logger.(ò®œÃÿÿÿÿÿ8¸Î¢—ø1J$e977d430-56fa-47bf-b894-9c349684de68
+m	java:S106{"+Replace this use of System.out by a logger.(ÿ•§Ô8¹Î¢—ø1J$62941da9-321a-4fab-9041-507ec7d8ae9e
+r	java:S106~"+Replace this use of System.out by a logger.(å¦‡”úÿÿÿÿ8»Î¢—ø1J$77b308bb-2e5d-4083-afd6-e86a99662b29

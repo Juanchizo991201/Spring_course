@@ -1,0 +1,20 @@
+
+
+java:S2629="7Use the built-in formatting to construct this argument.(ı®—“üÿÿÿÿ8Ñç‡ñ1J$ebaa874a-3c14-45d0-859c-5ad27b28d9ec
+„
+java:S3457"AFormat specifiers should be used instead of string concatenation.(Ôœ˜—8àç‡ñ1J$843e49af-7a85-4f47-9f30-60725c3df303
+`
+java:S2119 "Save and re-use this "Random".(¼İÅf8åç‡ñ1J$463162d4-88ab-45a9-a07f-a6db0ec132fd
+ƒ	java:S125$"<This block of commented-out lines of code should be removed.(Ç¨ŞÕÿÿÿÿÿ8Ë„§‡ñ1J$496cde25-0fca-4a31-af0d-7b9015defa52
+‰
+java:S3457="AFormat specifiers should be used instead of string concatenation.(ı®—“üÿÿÿÿ8è‡ñ1J$070480e2-9c8f-4864-ae70-999768f755ca
+‰
+java:S3457>"AFormat specifiers should be used instead of string concatenation.(ÅÀ¤Îûÿÿÿÿ8è‡ñ1J$9f7755b9-6cca-427a-ac14-25e91c8552b1
+‹
+java:S1128"HRemove this unused import 'com.fasterxml.jackson.databind.ObjectMapper'.(´‘¨™8Ñ„§‡ñ1J$023b83e8-4c7b-4d9b-88dd-fc29a702932c
+n
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8Ñ„§‡ñ1J$65869422-700d-4274-a550-f38eabd77857
+v
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8Ò„§‡ñ1J$590be8eb-15bd-4868-96ff-b0ce1dfb4e26
+r
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8Ò„§‡ñ1J$547e6765-1776-4562-a6be-cb6b58afe159

@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  springboot-jpa-db:
+    image: mysql:latest
+    container_name: springboot-jpa-db
+    environment:
+      MYSQL_ROOT_PASSWORD: root_password # Change this to your desired root password
+      MYSQL_DATABASE: jpa-springboot-course
+      MYSQL_USER: admin
+      MYSQL_PASSWORD: admin
+    ports:
+      - "3306:3306" # Expose MySQL port
+    volumes:
+      - mysql-data:/var/lib/mysql # Persist MySQL data
+
+volumes:
+  mysql-data:
